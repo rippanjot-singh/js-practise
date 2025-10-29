@@ -1,0 +1,1 @@
+In this practise project - i have tried event handeling nd dom manipulation
